@@ -1,0 +1,15 @@
+{
+  "name": "food-service",
+  "version": "1.0.0",
+  "description": "food-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/OlegTch/goit-js-hw-10-food-service.git"
+  },
+  "author": "Oleg Chaikovskyi",
+  "license": "MIT"
+}
